@@ -1,4 +1,4 @@
-![PomoPets Logo](https://lh3.googleusercontent.com/drive-viewer/AKGpihY1bo5WjXANVIemiyKQ3V1I7BQyvo-P7vV0GGfCWSWeFPbns-hEVVRZ1XjQfyIpPkhroXB6UY59-lE3T_QSXiHItCex2A=s1600)
+<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihY1bo5WjXANVIemiyKQ3V1I7BQyvo-P7vV0GGfCWSWeFPbns-hEVVRZ1XjQfyIpPkhroXB6UY59-lE3T_QSXiHItCex2A=s1600" alt="PomoPets Logo" width="50">
 
 # PomoPets Desktop Application README
 
