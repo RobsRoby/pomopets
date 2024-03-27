@@ -1,3 +1,5 @@
+![PomoPets Logo](https://lh3.googleusercontent.com/drive-viewer/AKGpihY1bo5WjXANVIemiyKQ3V1I7BQyvo-P7vV0GGfCWSWeFPbns-hEVVRZ1XjQfyIpPkhroXB6UY59-lE3T_QSXiHItCex2A=s1600)
+
 # PomoPets Desktop Application README
 
 ## Introduction
@@ -59,6 +61,24 @@ Getting started with PomoPets is easy:
 6. Experiment with different settings and features to find the setup that works best for you.
 
 7. Enjoy the company of your virtual pets and let them motivate you to stay productive!
+
+## Installation
+
+To install PomoPets on your desktop, follow these steps:
+
+1. Download the PomoPets installation package from the provided link: [PomoPets Installer](https://drive.google.com/file/d/1KlMw1Cz7xCMOa5jGcjfbIfQc4o2VHYzp/view?usp=sharing).
+
+2. Extract the contents of the package to a directory of your choice on your local machine.
+
+3. Navigate to the extracted directory and locate the executable file (e.g., `PomoPets.exe`).
+
+4. Double-click the executable file to launch PomoPets.
+
+5. Follow the on-screen instructions to complete the installation process.
+
+6. Once installed, you can launch PomoPets from your desktop or application menu.
+
+If you encounter any issues during installation or have any questions, please don't hesitate to reach out to our support team for assistance. We're here to help you get started with PomoPets!
 
 ## Development
 
