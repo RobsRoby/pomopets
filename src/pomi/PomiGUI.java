@@ -93,11 +93,13 @@ public class PomiGUI extends javax.swing.JFrame {
         Dimension screenSize = Toolkit.getDefaultToolkit().getScreenSize();
         
         setSize(screenSize.width, screenSize.height);
-        
+        setPreferredSize(screenSize);
+
         initComponents();
         
         content_panel.setSize(screenSize.width, screenSize.height);
-        
+        content_panel.setPreferredSize(screenSize);
+
         //Center the Screen
         setLocationRelativeTo(null);
         
@@ -3093,7 +3095,7 @@ public class PomiGUI extends javax.swing.JFrame {
         content_panel.add(appspanel, java.awt.BorderLayout.WEST);
 
         actions.setBackground(new java.awt.Color(96, 0, 0));
-        actions.setBorder(javax.swing.BorderFactory.createEmptyBorder(0, 40, 60, 40));
+        actions.setBorder(javax.swing.BorderFactory.createEmptyBorder(40, 40, 40, 40));
         actions.setOpaque(false);
         actions.setLayout(new java.awt.BorderLayout());
 
