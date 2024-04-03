@@ -66,7 +66,7 @@ Getting started with PomoPets is easy:
 
 To install PomoPets on your desktop, follow these steps:
 
-1. Download the PomoPets installation package from the provided link: [PomoPets Installer](https://drive.google.com/file/d/1KlMw1Cz7xCMOa5jGcjfbIfQc4o2VHYzp/view?usp=sharing).
+1. Download the PomoPets installation package from the provided link: [PomoPets Installer Exe](https://drive.google.com/file/d/1KlMw1Cz7xCMOa5jGcjfbIfQc4o2VHYzp/view?usp=sharing) [PomoPets Setup Installer](https://drive.google.com/file/d/1F7CtOFRo6xRToo_xmGa6N9j3c3WOX_qp/view?usp=drive_link).
 
 2. Extract the contents of the package to a directory of your choice on your local machine.
 
