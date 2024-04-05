@@ -28,22 +28,6 @@ PomoPets offers a range of features to help you manage your time effectively and
 
 9. **Security**: Rest assured that your data is secure with built-in security measures to protect your privacy.
 
-## Installation
-
-To install PomoPets on your desktop, follow these steps:
-
-1. Download the PomoPets installation package from the provided source.
-
-2. Extract the contents of the package to a directory of your choice on your local machine.
-
-3. Navigate to the extracted directory and locate the executable file (e.g., `PomoPets.exe`).
-
-4. Double-click the executable file to launch PomoPets.
-
-5. Follow the on-screen instructions to complete the installation process.
-
-6. Once installed, you can launch PomoPets from your desktop or application menu.
-
 ## Usage
 
 Getting started with PomoPets is easy:
@@ -66,7 +50,7 @@ Getting started with PomoPets is easy:
 
 To install PomoPets on your desktop, follow these steps:
 
-1. Download the PomoPets installation package from the provided link: [PomoPets Exe App](https://drive.google.com/file/d/1KlMw1Cz7xCMOa5jGcjfbIfQc4o2VHYzp/view?usp=sharing) [PomoPets Setup Installer](https://drive.google.com/file/d/1F7CtOFRo6xRToo_xmGa6N9j3c3WOX_qp/view?usp=drive_link).
+1. Download the PomoPets installation package or the standalone app from the provided link: [PomoPets Standalone App](https://drive.google.com/file/d/1KlMw1Cz7xCMOa5jGcjfbIfQc4o2VHYzp/view?usp=sharing) [PomoPets Setup Installer](https://drive.google.com/file/d/1F7CtOFRo6xRToo_xmGa6N9j3c3WOX_qp/view?usp=drive_link).
 
 2. Extract the contents of the package to a directory of your choice on your local machine.
 
