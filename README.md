@@ -1,4 +1,4 @@
-<img src="https://lh3.googleusercontent.com/drive-viewer/AKGpihY1bo5WjXANVIemiyKQ3V1I7BQyvo-P7vV0GGfCWSWeFPbns-hEVVRZ1XjQfyIpPkhroXB6UY59-lE3T_QSXiHItCex2A=s1600" alt="PomoPets Logo" width="100">
+<img src="https://github.com/RobsRoby/pomopets/blob/main/src/pomi/logo.png" alt="PomoPets Logo" width="100">
 
 # PomoPets Desktop Application README
 
